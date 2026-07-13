@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello B
+=======
+hello
+>>>>>>> 601571703302a874be4beb56c835629a8fdc5cfe
